@@ -1,0 +1,6 @@
+# Default ignored files
+/../../git_practice /.idea/shelf/
+/../../git_practice /.idea/workspace.xml
+/ _pycache _
+pyc.*
+/idea.
